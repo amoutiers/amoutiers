@@ -14,7 +14,7 @@ I actively explore how generative AI transforms software engineering, from archi
 
 **[maxi-superpowers](https://github.com/amoutiers/maxi-superpowers)**: Developer productivity framework for AI-assisted engineering: structured TDD, ADR, planning, automated code reviews. Built on top of Superpowers.
 
-**A secret**: The safety, offline, low-power, and no-network constraints of maritime navigation push me to write better software everywhere.
+**A secret app**: Offline-first maritime navigation software built in Rust for unreliable connectivity and constrained devices.
 
 **[nmea-kit](https://github.com/amoutiers/nmea-kit)**: A zero-dependency Rust library for NMEA 0183 and AIS.
 Published on [crates.io](https://crates.io/crates/nmea-kit). ![crates.io downloads](https://img.shields.io/crates/d/nmea-kit) ![version](https://img.shields.io/crates/v/nmea-kit)
